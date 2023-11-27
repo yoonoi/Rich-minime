@@ -18,22 +18,77 @@
 
 
 ## Services
+### 로그인 후 기본 화면(미니룸)
+https://github.com/yoonoi/Rich-minime/assets/94058311/ef2fdc79-80fb-4a7e-b2d8-830ef5047ec9
+
+### 코인 통장 내역 조회
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/0f703505-1948-4e47-b69a-1a1f0f9cc0d2
+
+
 ### 미니미 옷 상점
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/7ee282e1-1e94-46e7-baff-36f1d84afeff
+
+
 
 
 ### 미니미 옷입히기
 
 
+https://github.com/yoonoi/Rich-minime/assets/94058311/a2a8b7e5-194b-472d-ae1d-02701f92ea40
+
+
+
 ### 미니룸 꾸미기
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/903ab66e-ec80-4b81-b416-47dc3ac2f1c3
+
 
 
 ### 룸 아이템 쇼핑하기
 
 
+https://github.com/yoonoi/Rich-minime/assets/94058311/89c056c1-c515-48c8-b423-7adb9560857d
+
+
+
 ### 소비패턴 분석
 
 
-### 환율 등 금융정보 조회
+https://github.com/yoonoi/Rich-minime/assets/94058311/cb949b6a-fdc7-4f0b-8749-ccfebdda17ff
+
+
+
+### 소비 피드백
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/ee453850-28d3-479d-b2e9-d672dec6acf2
+
+
+### 지니 봇(ChatBOT)
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/efe4af9c-35ad-4de3-97d4-f5872861b81d
+
+
+
+
+### 환율정보 조회
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/e367bf70-a221-4087-9b4f-f88e4399d9ae
+
+
+
+### 금융정보 조회
+
+
+https://github.com/yoonoi/Rich-minime/assets/94058311/17438584-834d-4763-a39b-501f5da8cb96
+
 
 
 
